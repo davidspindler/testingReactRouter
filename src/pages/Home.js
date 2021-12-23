@@ -9,13 +9,12 @@ export default function Home() {
 
         <ul>
           <li>
-            About 2
+            About
           </li>
           <li>
           <Link to="/blog">Blog</Link>
           </li>
           <li>
-            {/* Need to figure out routes*/}
             <Link to="/resources">Resources</Link>
           </li>
           <li>
