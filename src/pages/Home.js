@@ -9,7 +9,7 @@ export default function Home() {
 
         <ul>
           <li>
-            About
+            About 2
           </li>
           <li>
           <Link to="/blog">Blog</Link>
