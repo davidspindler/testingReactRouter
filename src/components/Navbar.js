@@ -5,7 +5,6 @@ import React, {useState, useEffect} from 'react';
 function Navbar() {
     const [toggleMenu, setToggleMenu] = useState(false);
     const [screenWidth, setScreenWidth] = useState(window.innerWidth);
-    let alreadyOpen = false;
 
     const toggleNav = () => {
         setToggleMenu(!toggleMenu);

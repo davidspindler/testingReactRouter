@@ -93,9 +93,9 @@ li a {
     visibility: hidden;
     height: 0;
   }
-  body {
+  /*body {
     background-color: violet;
-  }
+  }*/
 }
 /*Desktop*/
 @media screen and (min-width: 768px) and (max-width: 1024px) {
@@ -103,9 +103,9 @@ li a {
     visibility: hidden;
     height: 0;
   }
-  body {
+  /*body {
     background-color: green;
-  }
+  }*/
 }
 /*Ipad*/
 @media screen and (max-width:768px) {
@@ -116,9 +116,9 @@ li a {
   .navTrigger {
     padding-left:20px;
   }
-  body {
+  /*body {
     background-color: yellow;
-  }
+  }*/
 
 }
 /*mobile*/
@@ -131,9 +131,9 @@ li a {
   .navTrigger {
     padding-left:20px;
   }
-  body {
+  /*body {
     background-color: blue;
-  }
+  }*/
 }
 
 /* Animation */
