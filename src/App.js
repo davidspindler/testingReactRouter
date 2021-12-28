@@ -3,6 +3,7 @@ import './App.css';
 import Home from './pages/Home';
 import Resources from './pages/Resources';
 import Blog from './pages/Blog';
+import Donate from './pages/Donate';
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<Home />}></Route>
         <Route path="/Resources" element={<Resources />}></Route>
         <Route path="/Blog" element={<Blog />}></Route>
+        <Route path="/Donate" element={<Donate />}></Route>
       </Routes>
       <div >
       

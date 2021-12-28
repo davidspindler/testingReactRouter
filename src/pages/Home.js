@@ -12,12 +12,7 @@ export default function Home() {
           Welcome to Spindler Academy! <br /> Free Math and Computer Science Educational Videos for Everyone. 
         </p>
         <br />
-        <div id="donate">
         
-        <p>If you would like to support me, my DOGE address is:</p><br />
-        <p>DFQhAMEZUKZUkuRyJ4Nz19EESDkVHi4uqx</p>
-
-        </div>
         <Footer/>
       
     </div>

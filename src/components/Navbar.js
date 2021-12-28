@@ -20,7 +20,7 @@ function Navbar() {
                     <Link to="/resources">Resources</Link>
                 </li>
                 <li class="nav-item">
-                    <a href="#donate">Donate</a>
+                    <Link to="/donate">Donate</Link>
                 </li>
                 <li class="nav-item">
                     <a href="#links">Links</a>
