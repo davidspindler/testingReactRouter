@@ -10,6 +10,8 @@ export default function Home() {
         </header>
         <p>
           Welcome to Spindler Academy! <br /> Free Math and Computer Science Educational Videos for Everyone. 
+          <br />
+          <h2>This website is still a work in progress...</h2>
         </p>
         <br />
         
