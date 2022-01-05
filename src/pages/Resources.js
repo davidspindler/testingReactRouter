@@ -15,7 +15,7 @@ export default function Resources() {
         <br />
         <img src={mag} className="mag" alt="magnet link"/> 
         <a href="magnet:?xt=urn:btih:12d12d35a45e2142b6a698c1b9a8447768e712d5&dn=SpindlerAcademyExampleVideo.mkv&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.openbittorrent.com:6969">
-            Example Spindler Academy video</a>
+            Example Spindler Academy video</a> 
         
         </>
     )

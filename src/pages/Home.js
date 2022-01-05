@@ -8,11 +8,12 @@ export default function Home() {
         <header className="App-header">
         <Navbar/>
         </header>
-        <p>
-          Welcome to Spindler Academy! <br /> Free Math and Computer Science Educational Videos for Everyone. 
-          <br />
-          <h2>This website is still a work in progress...</h2>
-        </p>
+        <p>Welcome to Spindler Academy!</p> <br /> 
+        <p>Here you can find Free Educational Content for Everyone. </p>
+        <br />
+        <h2>Let's Learn!</h2>
+        <br />
+        <p>Follow me on social media below!</p>
         <br />
         
         <Footer/>

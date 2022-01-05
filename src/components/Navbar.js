@@ -29,23 +29,23 @@ function Navbar() {
     return (
         <>
 
-        <nav id="myTopnav" class="navbar">
-            <div class="container">
-           
+        <nav id="myTopnav" className="navbar">
+            <div className="container">
+            
             <img src={logo} className="logo" alt="Spindler Academy logo"/>
-
+            
             {(screenWidth > 768 ) && (
-                <ul class="nav-links">
-                    <li class="nav-item">
+                <ul className="nav-links">
+                    <li className="nav-item">
                         <a href="#about">About</a>
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                         <Link to="/blog">Blog</Link>
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                         <Link to="/resources">Resources</Link>
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                         <Link to="/donate">Donate</Link>
                     </li>
                     
@@ -53,7 +53,7 @@ function Navbar() {
             )}
             
 
-            <span onClick={toggleNav} class="navTrigger" >
+            <span onClick={toggleNav} className="navTrigger" >
                     <i></i>
                     <i></i>
                     <i></i>
@@ -62,17 +62,17 @@ function Navbar() {
         </nav>
 
         {(toggleMenu && screenWidth < 768) && (
-                <ul class="nav-links">
-                    <li class="nav-item">
+                <ul className="nav-links">
+                    <li className="nav-item">
                         <a href="#about">About</a>
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                         <Link to="/blog">Blog</Link>
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                         <Link to="/resources">Resources</Link>
                     </li>
-                    <li class="nav-item">
+                    <li className="nav-item">
                         <Link to="/donate">Donate</Link>
                     </li>
                     
