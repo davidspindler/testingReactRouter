@@ -8,9 +8,14 @@ export default function Donate() {
         <h1>Donate</h1>
         <div id="donate">
         
-        <p>If you would like to support me, my DOGE address is:</p><br />
-        <p>DFQhAMEZUKZUkuRyJ4Nz19EESDkVHi4uqx</p>
+        <p>If you would like to support me, my addresses are:</p><br />
+        
 
+        <h2>BTC:</h2> <br />
+        
+        <p>bc1quzt4pmjnk7v2046jx9tmjn5fkv2zdqffr9khqc</p>
+        <h2>DOGE:</h2> <br />
+        <p>DFQhAMEZUKZUkuRyJ4Nz19EESDkVHi4uqx</p>
         </div>
         </>
     )
