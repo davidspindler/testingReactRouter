@@ -4,6 +4,13 @@
 .logo {
   width: 200px;
 }
+.tub {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.mag {
+  margin-left: 20px;
+}
 
 .container {
   display: flex;
