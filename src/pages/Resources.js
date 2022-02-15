@@ -55,6 +55,18 @@ export default function Resources() {
             Introduction to the Internet 
         <br />
 
+        {/*------------ */}
+
+        <a href="magnet:?xt=urn:btih:85930a065a68cfc44932ea815c45dfde6182569d&dn=The_Solar_System.mkv&tr=udp://open.xxtor.com:3074/announce&tr=https://tr.highstar.shop:443/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://code2chicken.nl:6969/announce&tr=https://tracker.lilithraws.cf:443/announce&tr=https://trackme.theom.nz:443/announce&tr=https://tracker.loligirl.cn:443/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://tracker.dix.tf:6969/announce&tr=udp://bt.oiyo.tk:6969/announce&tr=http://tracker.ipv6tracker.ru:80/announce&tr=udp://tracker.openbittorrent.com:6969&tr=udp://tracker.moeking.me:6969/announce&tr=udp://tracker.theoks.net:6969/announce&tr=http://buny.uk:6969/announce&tr=https://tr.fuckbitcoin.xyz:443/announce&tr=udp://tracker.beeimg.com:6969/announce&tr=udp://tracker6.lelux.fi:6969/announce&tr=http://tracker.bt4g.com:2095/announce&tr=udp://www.torrent.eu.org:451/announce&tr=https://tracker.kuroy.me:443/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://retracker.hotplug.ru:2710/announce&tr=https://tracker.iriseden.fr:443/announce&tr=https://tr.torland.ga:443/announce&tr=https://tracker.nanoha.org:443/announce&tr=udp://tracker.sylphix.com:6969/announce&tr=https://tr.burnabyhighstar.com:443/announce&tr=udp://ipv6.tracker.monitorit4.me:6969/announce&tr=udp://open.stealth.si:80/announce&tr=https://t.btcland.xyz:443/announce&tr=https://tr.doogh.club:443/announce&tr=udp://tracker.moeking.eu.org:6969/announce&tr=udp://tracker.birkenwald.de:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=https://t1.tokhmi.xyz:443/announce">
+            <img src={mag} className="mag" alt="magnet link"/>
+        </a>
+        <a href="https://www.youtube.com/watch?v=M1SoyKBR5lA">
+            <img src={tub} className="tub" alt="youtube link"/>
+        </a>
+            The Solar System 
+        <br />
+
+
          {/*------------ */}
          <br />
         <a href="magnet:?xt=urn:btih:0c5410f92a5090ce68dcc65545d0135468a9fd65&dn=Modern%20Cryptography&tr=http://buny.uk:6969/announce&tr=https://tr.doogh.club:443/announce&tr=udp://tracker6.lelux.fi:6969/announce&tr=udp://tracker.openbittorrent.com:6969&tr=udp://www.torrent.eu.org:451/announce&tr=udp://tracker.moeking.eu.org:6969/announce&tr=https://tr.torland.ga:443/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=https://t1.tokhmi.xyz:443/announce&tr=udp://bt.oiyo.tk:6969/announce&tr=https://tracker.loligirl.cn:443/announce&tr=https://tracker.nanoha.org:443/announce&tr=http://tracker.ipv6tracker.ru:80/announce&tr=https://trackme.theom.nz:443/announce&tr=https://tr.burnabyhighstar.com:443/announce&tr=udp://tracker.birkenwald.de:6969/announce&tr=http://t.nyaatracker.com:80/announce&tr=udp://tracker.sylphix.com:6969/announce&tr=udp://tracker.dix.tf:6969/announce&tr=https://t.btcland.xyz:443/announce&tr=https://tracker.lilithraws.cf:443/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://code2chicken.nl:6969/announce&tr=http://tracker.bt4g.com:2095/announce&tr=https://tr.fuckbitcoin.xyz:443/announce&tr=udp://tracker.beeimg.com:6969/announce&tr=udp://tracker.theoks.net:6969/announce&tr=https://tracker.iriseden.fr:443/announce&tr=udp://open.stealth.si:80/announce&tr=https://tracker.kuroy.me:443/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://ipv6.tracker.monitorit4.me:6969/announce&tr=udp://open.xxtor.com:3074/announce&tr=https://tr.highstar.shop:443/announce&tr=udp://retracker.hotplug.ru:2710/announce">
