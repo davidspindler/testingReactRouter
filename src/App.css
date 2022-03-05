@@ -115,6 +115,9 @@ li a {
 }
 /*Ipad*/
 @media screen and (max-width:768px) {
+  .mag {
+    display:none;
+  }
   .nav-links {
     flex-direction: column;
     height: auto;
@@ -133,6 +136,9 @@ li a {
 }
 /*mobile*/
 @media screen and (max-width:500px) {
+  .mag {
+    display:none;
+  }
   .nav-links {
     flex-direction: column;
     height: auto;
