@@ -17,12 +17,11 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />}></Route>
-        <Route path="resources" element={<Resources />}></Route>
-        <Route path="blog/" element={<Blog />}></Route>
-        <Route path="donate/*" element={<Donate />}></Route>
+        <Route path="/" element={<Home />} />
+        <Route path="/resources" element={<Resources />}></Route>
+        <Route path="/blog" element={<Blog />}></Route>
+        <Route path="/donate" element={<Donate />} />
       </Routes>
-      <div></div>
     </Router>
   );
 }
